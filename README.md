@@ -1,16 +1,17 @@
-## Hi there 👋
+# Olá, eu sou a  [Ingrid] 👋
 
-<!--
-**ivilharba/ivilharba** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎯 Especialista em Marketing Digital
+📍 Marília - SP
+📊 Foco em análise de dados e performance
 
-Here are some ideas to get you started:
+## 🚀 Projetos
+- 📈 Case de campanha Instagram Ads
+- 📊 Dashboard de métricas em Power BI
+- 🧠 Estratégia de funil de vendas
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠 Ferramentas
+- Google Analytics
+- Meta Ads
+- Power BI
+- Excel
+
