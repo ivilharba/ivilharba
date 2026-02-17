@@ -1,4 +1,4 @@
-# Olá, eu sou a  [Ingrid] 👋
+# Olá, eu sou a  Ingrid 👋
 
 🎯 Especialista em Marketing Digital
 📍 Marília - SP
