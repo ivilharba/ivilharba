@@ -1,13 +1,15 @@
 # Olá, eu sou a  Ingrid 👋
 
-🎯 Especialista em Marketing Digital
+💻 Desenvolvedora Front-end em formação
 📍 Marília - SP
 📊 Foco em análise de dados e performance
 
-## 🚀 Projetos
-- 📈 Campanhas Instagram Ads
-- 📊 Dashboard de estatísticas e métricas.
-- 🧠 Estratégia de funil de vendas
+## 📚 Estudando:
+🌐 HTML5
+🎨 CSS3
+🧠 Lógica de Programação
+🔧 Git & GitHub
+⚡ Node.js
 
 ## 🛠 Ferramentas
 - Google Analytics
