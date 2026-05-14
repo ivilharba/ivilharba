@@ -2,7 +2,7 @@
 
 💻 Desenvolvedora Front-end em formação
 📍 Marília - SP
-📊 Foco em análise de dados e performance
+
 
 ## 📚 Estudando:
 🌐 HTML5
