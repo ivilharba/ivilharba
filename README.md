@@ -1,4 +1,4 @@
-👋 Olá, eu sou a Ingrid
+#👋 Olá, eu sou a Ingrid
 
 💻 Desenvolvedora Front-end em formação
 📍 Marília – SP
