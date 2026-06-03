@@ -1,19 +1,23 @@
-# Olá, eu sou a  Ingrid 👋
+👋 Olá, eu sou a Ingrid
 
 💻 Desenvolvedora Front-end em formação
-📍 Marília - SP
+📍 Marília – SP
 
+🛠 Tecnologias e ferramentas
 
-## 📚 Estudando:
-🌐 HTML5
+💻 Desenvolvimento
+🧱 HTML5
 🎨 CSS3
-🧠 Lógica de Programação
-🔧 Git & GitHub
-⚡ Node.js
+⚡ JavaScript
+🔧 Git
+🐙 GitHub
 
-## 🛠 Ferramentas
-- Google Analytics
-- Meta Ads
-- Power BI
-- Excel
+🧰 Ferramentas de trabalho
+🧑‍💻 Visual Studio Code
+🎨 Figma
+🚀 Vercel
+
+✨ Sobre mim
+Apaixonada por tecnologia e criação de interfaces, estou em transição de carreira e focada em me tornar desenvolvedora front-end.
+Tenho como objetivo evoluir através de projetos práticos, aprimorar minhas habilidades constantemente e construir experiências digitais modernas e funcionais.
 
