@@ -18,6 +18,7 @@
 🚀 Vercel
 
 ✨ Sobre mim
+
 Apaixonada por tecnologia e criação de interfaces, estou em transição de carreira e focada em me tornar desenvolvedora front-end.
 Tenho como objetivo evoluir através de projetos práticos, aprimorar minhas habilidades constantemente e construir experiências digitais modernas e funcionais.
 
